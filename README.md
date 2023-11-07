@@ -8,12 +8,12 @@
 
 1. Clone项目
 ```
-git clone https://github.com/seawind8888/Nobibi-api my-project
+git clone https://github.com/ioaty/Nobibi-api.git nobibi-api
 ```
 
 2. 安装依赖
 ```
-cd my-porject
+cd nobibi-api
 npm install 或 yarn
 ```
 
